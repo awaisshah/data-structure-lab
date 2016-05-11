@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462968696 source:f:\suffa\data structure\class code examples\github d.s\graph\prac\main.cpp
+	<iostream>
+	<vector>
+	<list>
+
