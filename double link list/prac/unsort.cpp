@@ -52,6 +52,7 @@ void unsort:: deleteData(int newData) {
     if(current->data == newData) {
         head = head->right;
     }
+
     else {
 
         while(current->right->data != newData) {
@@ -60,7 +61,6 @@ void unsort:: deleteData(int newData) {
         node* temp = current->right;
         current->right = temp->right;
         temp->right->left = current;
-
     }
 };
 
