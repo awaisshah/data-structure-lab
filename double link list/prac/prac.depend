@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1463060277 source:f:\suffa\data structure\class code examples\github d.s\double link list\prac\main.cpp
+	<iostream>
+	"unsort.h"
+
+1463060138 f:\suffa\data structure\class code examples\github d.s\double link list\prac\unsort.h
+	"node.h"
+
+1463056414 f:\suffa\data structure\class code examples\github d.s\double link list\prac\node.h
+	<iostream>
+
+1463060257 source:f:\suffa\data structure\class code examples\github d.s\double link list\prac\unsort.cpp
+	"unsort.h"
+
